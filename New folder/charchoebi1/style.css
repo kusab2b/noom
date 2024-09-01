@@ -1,0 +1,24 @@
+﻿.sd{ 
+    border: solid;
+    width: 305px;
+    height: 168px;
+    color: rgb(208, 125, 207);
+}
+.ssd{
+    border: dashed;
+    width: 657px;
+    height: 121px;
+}
+.gr{
+    border: solid;
+    width: 399px;
+    height: 95px;
+    color: rgb(25, 250, 25);
+}
+.bl{
+    color: #736E42;
+    border: solid;
+    width: 1097px;
+    height: 173px;
+    background-color: rgb(36, 125, 175);
+}
